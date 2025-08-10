@@ -3,8 +3,8 @@ import { Button, Box, Typography, Stack, Link, Paper } from "@mui/material";
 import { motion } from "framer-motion";
 
 const links = [
-    { name: "Instagram", url: "https://instagram.com", color: "#E1306C" },
-    { name: "TikTok", url: "https://tiktok.com", color: "#000000" },
+    { name: "Instagram", url: "https://www.instagram.com/poppsique?igsh=YnVjY2NkcDNqcHBo", color: "#E1306C" },
+    { name: "TikTok", url: "https://www.tiktok.com/@poppsique?_t=ZM-8ym0BhXwg7B&_r=1", color: "#000000" },
     { name: "E-mail", url: "mailto:palomabarbosa367@gmail.com", color: "#b3483f" }
 ];
 
